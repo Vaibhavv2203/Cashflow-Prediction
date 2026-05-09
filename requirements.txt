@@ -1,0 +1,7 @@
+streamlit
+pandas
+json
+re
+datetime
+google.generativeai
+plotly.express
